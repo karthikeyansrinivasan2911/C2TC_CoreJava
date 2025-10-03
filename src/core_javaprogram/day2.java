@@ -7,7 +7,7 @@ public class day2 {
 		}
      public static void main(int a) {
     	 System.out.print("overloaded main method"+ a);
-    	  
+    	   
     	 
      }
 }
