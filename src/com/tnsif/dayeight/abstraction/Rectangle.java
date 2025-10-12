@@ -1,4 +1,4 @@
-package com.tsif.dayeight.abstraction;
+package com.tnsif.dayeight.abstraction;
 
 
 public class Rectangle extends Shape{
