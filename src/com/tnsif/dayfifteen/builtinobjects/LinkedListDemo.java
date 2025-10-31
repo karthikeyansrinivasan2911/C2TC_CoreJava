@@ -1,4 +1,4 @@
-
+//Program to demonstrate LinkedList class
 package com.tnsif.dayfifteen.builtinobjects;
 
 import java.util.Collections;
